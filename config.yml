@@ -1,0 +1,8 @@
+baseURL: 'https://random.blog/'
+languageCode: en-us
+title: Random Blog
+theme: PaperMod
+params:
+  defaultTheme: auto
+  hideSummary: true
+  ShowReadingTime: true
