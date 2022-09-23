@@ -1,1 +1,0 @@
-sources - renewable, solar, wind 
